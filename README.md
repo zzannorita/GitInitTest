@@ -28,8 +28,6 @@
 
       <footer>Footer</footer>
     </div>
-    </code>
-
   </div>
 </body>
 </html>
